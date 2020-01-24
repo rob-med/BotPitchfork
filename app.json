@@ -1,11 +1,12 @@
 {
-  "name": "Flask Heroku Sample",
-  "description": "A sample Flask app on Heroku",
+  "name": "BotPitchfork",
+  "description": "BotPitchfork, a Pitchfork Twitter bot",
   "keywords": [
     "flask",
     "python",
-    "sample"
+    "twitter",
+    "bot"
   ],
-  "repository": "https://github.com/yefim/flask-heroku-sample",
+  "repository": "https://github.com/rob-med/BotPitchfork",
   
 }
