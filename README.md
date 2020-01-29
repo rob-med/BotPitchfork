@@ -6,7 +6,7 @@ Everything is hosted on Heroku, with a Flask app.
 
 ## Description
 
-A detailed description of the project can be found [on Medium]().
+A detailed description of the project can be found [on Medium](https://medium.com/analytics-vidhya/building-a-twitter-bot-with-any-data-using-dashblock-and-tweepy-fd2b9f7ff5fc).
 
 
 ## Hosting 
@@ -14,7 +14,7 @@ A detailed description of the project can be found [on Medium]().
 The template used to host the Flask app on Heroku comes from:
 https://github.com/yefim/flask-heroku-sample.
 
-There, you will also find instructions on its deployment.
+There you will also find instructions on how to deploy to Heroku.
 
 ## Automated Tweeting
 To enable constant monitoring and automated tweeting you need to create a cron job in Heroku, and this can be done using the [Heroku Scheduler](https://addons-sso.heroku.com/apps/d1734328-bd3f-484a-ac91-2e1aa2627c80/addons/1370e47f-2612-4cae-a639-19fc0527d03c) add on, connected to the **post.py** script.
